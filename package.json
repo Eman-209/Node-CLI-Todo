@@ -1,0 +1,13 @@
+{
+  "name": "Node-CLI-Todo",
+  "version": "1.0.0",
+  "description": "A simple CLI Todo app using Node.js and JSON file storage",
+  "license": "MIT",
+  "author": "Eman Fatima",
+  "type": "commonjs",
+  "main": "index.js",
+  "keywords": ["cli","todo","nodejs","filesystem"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
