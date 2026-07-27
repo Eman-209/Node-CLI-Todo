@@ -26,9 +26,9 @@ node index.js
 
 
 ## Usage
-- node index.js add <task>
+- node index.js add task
 - node index.js list
-- node index.js done <id>
-- node index.js delete <id>
+- node index.js done id
+- node index.js delete id
 
 Made by Eman Fatima
