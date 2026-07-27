@@ -16,9 +16,9 @@ No database needed - all tasks are stored in a `todos.json` file.
 
 ## How to Run
 
-1. Clone the repo
+1. Clone the repo <br></br>
 bash
-git clone <your-repo-link>
+git clone <https://github.com/Eman-209/Node-CLI-Todo.git><br></br>
 cd Node-CLI-Todo
 
 2. Run the app
