@@ -17,7 +17,7 @@ No database needed - all tasks are stored in a `todos.json` file.
 ## How to Run
 
 1. Clone the repo <br></br>
-bash
+bash<br></br>
 git clone <https://github.com/Eman-209/Node-CLI-Todo.git><br></br>
 cd Node-CLI-Todo
 
@@ -26,9 +26,9 @@ node index.js
 
 
 ## Usage
-node index.js add <task>
-node index.js list
-node index.js done <id>
-node index.js delete <id>
+-node index.js add <task>
+-node index.js list
+-node index.js done <id>
+-node index.js delete <id>
 
 Made by Eman Fatima
