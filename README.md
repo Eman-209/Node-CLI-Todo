@@ -21,14 +21,14 @@ bash<br></br>
 git clone <https://github.com/Eman-209/Node-CLI-Todo.git><br></br>
 cd Node-CLI-Todo
 
-2. Run the app
+2. Run the app <br></br>
 node index.js
 
 
 ## Usage
--node index.js add <task>
--node index.js list
--node index.js done <id>
--node index.js delete <id>
+- node index.js add <task>
+- node index.js list
+- node index.js done <id>
+- node index.js delete <id>
 
 Made by Eman Fatima
